@@ -1,0 +1,17 @@
+Day 1 - Introduction of IBM stelring OMS
+
+	1) IBM Sterling Order Management System (OMS) is a comprehensive software solution that brokers orders across many disparate systems, orchestrates and automates cross-channel selling and fulfillment processes, and provides a global view of supply and demand across the supply chain.
+
+	2) It is a comprehensive B2C and B2B order management and fulfillment solution that addresses the complexities of fulfilling orders across multiple channels, while cost-effectively orchestrating global product and service fulfillment across the extended enterprise.
+
+	3) The IBM Sterling OMS solution provides a central source of order information, management, and monitoring, and provides a single order repository to enter, modify, track, cancel and monitor the entire order life cycle in real time. Your company can provide customers information about their orders, from any channel or division, when and where they need it.
+
+	4) In addition, your store personnel, call/contact center staff, website and field sales team can leverage the system to place or modify orders, determine order status, check inventory availability across all locations, and manage the returns process.
+
+	Features:
+	Single view of supply and demand across channels
+	Coordinated, customized fulfilment execution to support omni-channel needs
+	Single source of order information for accurate and timely updates
+	Integrated omni-channel order fulfilment processes for seamless customer  experience
+	Greater order visibility with reduced costs
+	Improved purchase experience

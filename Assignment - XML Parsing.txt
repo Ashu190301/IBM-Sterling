@@ -1,0 +1,57 @@
+Assignment 1:
+
+Create a XML through Java DOM Parsing.
+
+<Order>
+	<OrderLines>
+		<OrderLine PrimeLineNo="1">
+			<Item ItemType="PROD"/>
+		</OrderLine>
+		<OrderLine PrimeLineNo="2">
+			<Item ItemType="PROD"/>
+		</OrderLine>
+		<OrderLine PrimeLineNo="3">
+			<Item ItemType="DS"/>
+		</OrderLine>
+		<OrderLine PrimeLineNo="4">
+			<Item ItemType="DS"/>
+		</OrderLine>
+		<OrderLine PrimeLineNo="5">
+			<Item ItemType="PS"/>
+		</OrderLine>
+	</OrderLines>
+</Order>
+
+Assignment 2:
+
+	Create Differnet XML's by group the ItemType unique as a set.
+	
+<Order>
+	<OrderLines>
+		<OrderLine PrimeLineNo="1">
+			<Item ItemType="PROD"/>
+		</OrderLine>
+		<OrderLine PrimeLineNo="2">
+			<Item ItemType="PROD"/>
+		</OrderLine>
+	</OrderLines>
+</Order>
+
+<Order>
+	<OrderLines>
+		<OrderLine PrimeLineNo="3">
+			<Item ItemType="DS"/>
+		</OrderLine>
+		<OrderLine PrimeLineNo="4">
+			<Item ItemType="DS"/>
+		</OrderLine>
+	</OrderLines>
+</Order>
+
+<Order>
+	<OrderLines>
+		<OrderLine PrimeLineNo="5">
+			<Item ItemType="PS"/>
+		</OrderLine>
+	</OrderLines>
+</Order>

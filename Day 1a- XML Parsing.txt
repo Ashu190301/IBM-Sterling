@@ -1,0 +1,54 @@
+Sterling Architecture:
+	
+	https://www.ibm.com/docs/en/configurepricequote/10.0?topic=architecture-sterling-order-management-software-server-components
+	
+	
+Day 1a: XML
+	XML stands for eXtensible Markup Language.
+
+	XML was designed to store and transport data.
+
+	XML was designed to be both human- and machine-readable.
+	
+	XML is used in many aspects of web development.
+
+	XML is often used to separate data from presentation.
+	
+XML Tree: 
+https://www.w3schools.com/xml/xml_tree.asp
+
+XML Syntax:
+	Root element
+	Prolog:  <?xml version="1.0" encoding="UTF-8"?>
+	Should have proper Open and Close Tag
+	Case Sensitive
+	Properly Nested.
+	Attribute value must be Quoted.
+	Comments: <!-- This is a comment -->
+	
+	
+	Escape Sequences:
+		&lt;	<	less than
+		&gt;	>	greater than
+		&amp;	&	ampersand 
+		&apos;	'	apostrophe
+		&quot;	"	quotation mark
+		
+		
+DOM:
+	The Document Object Model (DOM) defines a standard for accessing and manipulating documents:
+	https://www.tutorialspoint.com/java_xml/java_dom_query_document.htm
+	
+
+What is XPath?
+	XPath is a major element in the XSLT standard.
+	XPath can be used to navigate through elements and attributes in an XML document.
+	
+	XPath uses path expressions to select nodes or node-sets in an XML document. These path expressions look very much like the expressions you see when you work with a traditional computer file system.
+
+	XPath expressions can be used in JavaScript, Java, XML Schema, PHP, Python, C and C++, and lots of other languages.
+
+
+	https://www.w3schools.com/xml/xml_xpath.asp
+
+	https://www.w3schools.com/xml/xpath_syntax.asp
